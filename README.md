@@ -33,9 +33,9 @@
 
 ## Inicializando airflow.
 
-    Docker-compose up
+    docker-compose up
 
-## Observação
+### Observação
 
     Login e senha: airflow
 
@@ -51,4 +51,4 @@
 
 ## inicialize com o comando     
     
-        Docker-compose up
+        docker-compose up
