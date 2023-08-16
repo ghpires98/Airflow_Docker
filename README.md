@@ -1,5 +1,12 @@
 # Airflow_Docker
 
+# documentação Airflow 
+
+    https://airflow.apache.org/docs/apache-airflow/stable/howto/docker-compose/index.html
+
+# Instalando Docker no Linux
+
+    https://github.com/ghpires98/Docker/tree/main/documentacao
 
 ## Abra a pasta Documents
 
