@@ -20,7 +20,7 @@
 
     cd /Documents/Airflow_Docker/Airflow$ 
 
-### Criar
+### Criar pastas necessarias para o airflow
 
     mkdir dags
     mkdir config
