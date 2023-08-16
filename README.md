@@ -20,6 +20,13 @@
 
     cd /Documents/Airflow_Docker/Airflow$ 
 
+### Criar
+
+    mkdir dags
+    mkdir config
+    mkdir logs
+    mkdir plugins
+
 ## comando para fazer download dos requesitos da aplicação
 
     docker-compose up airflow-init
